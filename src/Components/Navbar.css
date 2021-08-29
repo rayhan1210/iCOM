@@ -1,0 +1,13 @@
+.nav {
+    font-size: 25px;
+    display: flex;
+    text-decoration: none;
+    color:white;
+    
+}
+
+.nav:hover {
+    
+    color:rgb(78, 76, 76);
+    
+}
